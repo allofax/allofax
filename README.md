@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hey! 👋
+
+Thanks for checking out my profile! Here's a few things about me:
+
+- 🖥 I'm a second year computer science student!
+- 🔭 I'm currently learning how to use RESTful APIs
+- 🔮 I'd like to learn how to code for the back-end more
+- ☕️ Java is great (IMO)! :)
+
+I'll be changing what I do over time and posting it here, so watch this space!
 
 <!--
 **remizla/remizla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
