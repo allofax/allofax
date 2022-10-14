@@ -2,8 +2,7 @@
 
 Thanks for checking out my profile! Here's a few things about me:
 
-- 🖥 I'm a second year computer science student!
-- 🔭 I'm currently learning how to use RESTful APIs
+- 🖥 I'm a third year computer science student!
 - 🔮 I'd like to learn how to code for the back-end more
 - ☕️ Java is great (IMO)! :)
 
