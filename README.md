@@ -1,10 +1,10 @@
-### Hey! 👋
+### Hello! 👋
 
 Thanks for checking out my profile! Here's a few things about me:
 
-- 🖥 I'm a third year computer science student!
-- 🔮 I'd like to learn how to code for the back-end more
-- ☕️ Java is great (IMO)! :)
+- 🖥 I'm an Associate Software Engineer at OpenBet 
+- 🔮 I'd like to focus more on other backend technologies
+- ☕️ Java is great IMO, I'll kiss whoever designed the JVM
 
 I'll be changing what I do over time and posting it here, so watch this space!
 
