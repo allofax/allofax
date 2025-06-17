@@ -2,7 +2,7 @@
 
 Thanks for checking out my profile! Here's a few things about me:
 
-- 🖥 I'm an Associate Software Engineer at OpenBet 
+- 🖥  I'm an Associate Software Engineer at OpenBet 
 - 🔮 I'd like to focus more on other backend technologies
 - ☕️ Java is great IMO, I'll kiss whoever designed the JVM
 
